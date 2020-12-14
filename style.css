@@ -1,0 +1,84 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.main-body {
+  width: 400px;
+  margin: 20px auto;
+  text-align: center;
+  background-color:#bfbfbf;
+  border-radius: 5%;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.4);
+  padding: 10px;
+ 
+}
+.main-body:hover{
+  box-shadow: 0px 16px 31px 0px rgba(0, 0, 0, 0.8);
+}
+h2 {
+  float: left;
+  text-align: left;
+  font-family: 'Russo One', sans-serif;
+  padding: 10px 0px 0px 20px;
+}
+p{
+  float: left;
+  text-align: left;
+  padding-top: 16px;
+}
+.solar-body {
+  margin-top: 9px;
+  margin-right: 30px;
+}
+.solar {
+  float: right;
+  width: 40px;
+  height: 25px;  
+  background-color: #50281F;
+  box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.2);;
+  
+}
+.output {
+  background-color: #6B775A;
+  width: 370px;
+  height: 80px;
+  margin: 10px 0px 0px 0px;
+  font-size: 45px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-align: right;
+  padding: 5px;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.3);
+}
+.cal-body {
+  font-size: 0px;
+  margin: 10px 0px 10px 0px;
+}
+.btn {
+  width: 95px;
+  height: 48px;
+  background-color: #1a1a1a;
+  color: white;
+}
+.btn:hover {
+  background-color: #333333;
+}
+.side-btn {
+  background-color: teal;
+}
+.side-btn:hover {
+  background-color: #00b3b3;
+}
+.equal-btn {
+  background-color: #e65c00;
+}
+.equal-btn:hover {
+  background-color: #ff751a;
+}
+.c-btn {
+  background-color:#cc0000;
+}
+.c-btn:hover {
+  background-color: #ff0000;
+}
